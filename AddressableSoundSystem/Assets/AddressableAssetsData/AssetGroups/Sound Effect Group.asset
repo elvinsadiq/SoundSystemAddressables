@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Sound Effect Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Sound Effect Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 52cac0da09aa76c4d817ee5a633306dd
+  m_SerializeEntries:
+  - m_GUID: ce53ddc4a20ca934c9261fb7b1e1223f
+    m_Address: Assets/App/SFX/SoundEffects/51749__erkanozan__gunshot.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7dc894e72ac193246a779366cd80fb86
+    m_Address: Assets/App/SFX/SoundEffects/222023__stuntstudio__pearl-mlx-12-tom.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 32f1c18322484144480cbf74ad10c464
+    m_Address: Assets/App/SFX/SoundEffects/348242__newagesoup__punch-boxing-03.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0b4f2440e846145499851bcc0e78139f
+    m_Address: Assets/App/SFX/SoundEffects/415912__okieactor__heathers-gunshot-effect2.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 77751ffe93750eb4a85832df664f1091
+    m_Address: Assets/App/SFX/SoundEffects/493916__damnsatinist__intense-punch.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 03947b4df93b3e64e8aef0e6ee29ba1a
+    m_Address: Assets/App/SFX/SoundEffects/573377__johnloser__cyber-punch-02.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8b5076ab13acab644a43f97e14390706
+    m_Address: Assets/App/SFX/SoundEffects/644306__taikodrum__heart-collect-healing-retro.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4c91b15a1d1cc304a8e69a45108f831f
+    m_Address: Assets/App/SFX/LoopTest/360662__inspectorj__falling-comedic-a.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d2e0d363eeb1db54ab2bcb4175fe77cb
+    m_Address: Assets/App/SFX/LoopTest/393857__martian__cartoon-horse-gallop.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4e9189d936e89cb4ca15189835112708
+    m_Address: Assets/App/SFX/LoopTest/642843__klankbeeld__forest-farmland-eq-003-220503-0341.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: b15b273b0708e644c848330450fe113a, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 491a22019eeee0946a776f27cc24feaa, type: 2}
+    - {fileID: 11400000, guid: 6f659d7e115ecb942a0272bf6f4c42c8, type: 2}
